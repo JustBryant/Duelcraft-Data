@@ -1,1 +1,2 @@
-# Duelcraft-Data Registry\n\nCentral hub for card JSONs and cosmetic assets.
+# Duelcraft-Data Registry
+Central hub for card JSONs and cosmetic assets.
