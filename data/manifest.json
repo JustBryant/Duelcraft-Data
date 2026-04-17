@@ -1,0 +1,13 @@
+{
+  "version": "1776451502",
+  "totalCards": 14322,
+  "registryUrl": "https://raw.githubusercontent.com/JustBryant/Duelcraft-Data/main/data/atlas_registry.json",
+  "cardBatchUrl": "https://raw.githubusercontent.com/JustBryant/Duelcraft-Data/main/bundles/cards.zip",
+  "bundleUrls": [
+    "https://raw.githubusercontent.com/JustBryant/Duelcraft-Data/main/bundles/bundle_0.zip",
+    "https://raw.githubusercontent.com/JustBryant/Duelcraft-Data/main/bundles/bundle_1.zip",
+    "https://raw.githubusercontent.com/JustBryant/Duelcraft-Data/main/bundles/bundle_2.zip",
+    "https://raw.githubusercontent.com/JustBryant/Duelcraft-Data/main/bundles/bundle_3.zip",
+    "https://raw.githubusercontent.com/JustBryant/Duelcraft-Data/main/bundles/bundle_4.zip"
+  ]
+}
